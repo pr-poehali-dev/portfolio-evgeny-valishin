@@ -2,7 +2,6 @@
 import React from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import Icon from "@/components/ui/icon";
-import { LucideProps } from "lucide-react";
 
 interface ServiceCardProps {
   title: string;
